@@ -37,7 +37,7 @@ function sophie($nohp, $jum, $wait){
 }
 print "[BOT SPAM SOPHIE]
 |S|M|S| |S|P|A|M|   
-Code By : Ranresellerid
+Kode oleh: iMAndriyansah
 
 \n";
 
